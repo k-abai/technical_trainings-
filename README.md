@@ -1,6 +1,6 @@
 # technical_trainings
 A collection of hands-on technical trainings, course exercises, and notes completed across topics in accelerated computing, robotics, machine learning, 
-and related engineering tools adn personal intrests. 
+and related engineering tools and personal intrests. 
 
 ## Structure
 Current layout:
