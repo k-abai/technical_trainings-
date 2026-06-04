@@ -1,6 +1,6 @@
 # CUDA C++ intro training
 
-This folder documents hands-on exercises completed after the NVIDIA Deep Learning Institute course An Even Easier Introduction to CUDA using CUDA C/C++. 
+This folder documents hands-on exercises completed after the NVIDIA Deep Learning Institute course *An Even Easier Introduction to CUDA using CUDA C/C++*. 
 
 What this covers:
 - CUDA's host/device execution model and the standard workflow for launching GPU work.
